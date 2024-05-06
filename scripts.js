@@ -12,7 +12,8 @@ gen1.innerText = 'Generasión 1 Pokimon'
 const backColor = document.querySelector('.infocard-list')
 backColor.style.backgroundColor = ("lightblue")
 
-// const backColor = document.querySelector(".infocard-list").querySelectorAll("div"); //Segundo query para seleccionar todos los div dentro de .infocard-list
+//Versión cambiando de color el fondo de cada tarjeta.
+// const backColor = document.querySelector(".infocard-list").querySelectorAll("div"); 
 // for (let i = 0; i < backColor.length; i++) {
 //     backColor[i].style.backgroundColor = "lightblue"
 // } 
